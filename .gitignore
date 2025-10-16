@@ -27,3 +27,5 @@ node_modules/
 node_modules/
 .next/
 .env
+*.json
+qwiklabs-gcp-03-9b33cadbb2c8-c26b24f6856d.json
